@@ -1,0 +1,7 @@
+C:\Dev\Tmp2\tzapp1\bin\Publish\TZApp1.exe
+C:\Dev\Tmp2\tzapp1\bin\Publish\appsettings.Development.json
+C:\Dev\Tmp2\tzapp1\bin\Publish\appsettings.json
+C:\Dev\Tmp2\tzapp1\bin\Publish\TZApp1.dll
+C:\Dev\Tmp2\tzapp1\bin\Publish\TZApp1.deps.json
+C:\Dev\Tmp2\tzapp1\bin\Publish\TZApp1.runtimeconfig.json
+C:\Dev\Tmp2\tzapp1\bin\Publish\TZApp1.pdb
